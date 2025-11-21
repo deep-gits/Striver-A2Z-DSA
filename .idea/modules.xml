@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Striver A2Z DSA.iml" filepath="$PROJECT_DIR$/Striver A2Z DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
     </modules>
   </component>
 </project>
